@@ -1,0 +1,15 @@
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.csproj.AssemblyReference.cache
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.AssemblyInfoInputs.cache
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.AssemblyInfo.cs
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.csproj.CoreCompileInputs.cache
+C:\Users\hosei\source\repos\CalculatorAPP\bin\Debug\net6.0\CalculatorAPP.exe
+C:\Users\hosei\source\repos\CalculatorAPP\bin\Debug\net6.0\CalculatorAPP.deps.json
+C:\Users\hosei\source\repos\CalculatorAPP\bin\Debug\net6.0\CalculatorAPP.runtimeconfig.json
+C:\Users\hosei\source\repos\CalculatorAPP\bin\Debug\net6.0\CalculatorAPP.dll
+C:\Users\hosei\source\repos\CalculatorAPP\bin\Debug\net6.0\CalculatorAPP.pdb
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.dll
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\refint\CalculatorAPP.dll
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.pdb
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\CalculatorAPP.genruntimeconfig.cache
+C:\Users\hosei\source\repos\CalculatorAPP\obj\Debug\net6.0\ref\CalculatorAPP.dll
